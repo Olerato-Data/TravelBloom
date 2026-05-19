@@ -1,0 +1,81 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Australia",
+        "cities": [
+          {
+            "name": "Sydney, Australia",
+            "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.kzFBOAisWvSgeTnmq6DbXgHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+          },
+          {
+            "name": "Melbourne, Australia",
+            "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.Ml3n-JPYCOU0cf7TDvoU6gHaEu?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "cities": [
+          {
+            "name": "Tokyo, Japan",
+            "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.SKhTNcykEmU7ehqjdV3FGwHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+          },
+          {
+            "name": "Kyoto, Japan",
+            "imageUrl": "https://th.bing.com/th/id/OIP.QvsjsuxdxkDjCJfShclwkwHaE8?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "description": "Known for its historic temples, gardens, and traditional tea houses."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brazil",
+        "cities": [
+          {
+            "name": "Rio de Janeiro, Brazil",
+            "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.PXFuOrBbFbvK0_seSy-DGwHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+          },
+          {
+            "name": "São Paulo, Brazil",
+            "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.n6_7fMEZnPgcxS5Y0lmLEwHaFQ?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "Angkor Wat, Cambodia",
+        "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.SuDBzZitMVLY-oWCFBbHXgHaE4?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+      },
+      {
+        "id": 2,
+        "name": "Taj Mahal, India",
+        "imageUrl": "https://th.bing.com/th/id/OIP.ukaQmuZWBX1oKXiJE7cHuwHaE7?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bora Bora, French Polynesia",
+        "imageUrl": "https://th.bing.com/th/id/OIP.cIZdamnJrcWzokOjcrVEcwHaE8?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+      },
+      {
+        "id": 2,
+        "name": "Copacabana Beach, Brazil",
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/032/481/670/large_2x/sunset-at-copacabana-beach-rio-de-janeiro-brazil-ipanema-beach-in-rio-de-janeiro-on-a-gorgeous-sunset-ai-generated-free-photo.jpg",
+        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+      }
+    ]
+  }
+  
